@@ -21,9 +21,9 @@
 
 ## Activities
 
-• 🦁 멋쟁이사자처럼 대학 (LIKELION.UNIV) 동덕여대 11th FE 아기사자
-• 🌊 4차 산업혁명 연구 동아리 TAVE 14th FE 테이비
-• 🖥️ ICT 멘토링 프로보노 FE 팀장
+• 🦁 멋쟁이사자처럼 대학 (LIKELION.UNIV) 동덕여대 11th FE 아기사자 <br/>
+• 🌊 4차 산업혁명 연구 동아리 TAVE 14th FE 테이비 <br/>
+• 🖥️ ICT 멘토링 프로보노 FE 팀장 <br/>
 
 
 ## Awards
