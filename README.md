@@ -32,7 +32,7 @@ ICT 멘토링 한이음 드림업 - 임산부를 위한 통합 케어 서비스 
 • 🖥️ ICT 멘토링 프로보노 FE 팀장 <br/>
 • 🌊 4차 산업혁명 연구 동아리 TAVE 15th 기술처 운영진 <br/>
 • 🖥️ ICT 멘토링 한이음 드림업 FE 팀장 <br/>
-
+• 🤖 NIPA-AWS Developer Bootcamp  <br/>
 
 ## Awards
 
